@@ -13,6 +13,6 @@ Proyecto de la fase dos de BEDU python - Data Science
  - Seaborn
 
 ## Notas del código
-- El jupyter notebook fue probado en google colab
+- **Nota el jupyter notebook fue probado unicamente en google colab**
 - Solo es necesario correr el jupyter notebook
 - No se requiere cargar el dataset,el mismo codigo descarga los datos
